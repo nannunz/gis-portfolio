@@ -25,6 +25,4 @@ Thus, I'm mostly interested in GIS as an explanatory tool, rather than an explor
 [Assignment 1: Generating a map for a non-profit](https://nannunz.github.io/gis-portfolio/vstyling_wizard_exercise.html)
 
 
-<br/>
-
 [In-class demo: PGH SummerFest](https://nannunz.github.io/gis-portfolio/visitPGH_demo.html)
