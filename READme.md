@@ -4,7 +4,8 @@ Creating maps for 90753-A4: Advanced GIS <br/>
 [Portfolio homepage](https://nannunz.github.io/gis-portfolio/)
 
 
-<img align="left" src="https://github.com/nannunz/gis-portfolio/blob/main/github_repo_resize.png?raw=true">
+<img align="left" src="https://github.com/nannunz/gis-portfolio/blob/main/github_repo_resize.png?raw=true">{: height="75px" width="300px" style="float:left; padding-right:10px" }
+<br/>
 
 ## About Me 
 
