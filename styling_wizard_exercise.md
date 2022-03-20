@@ -28,7 +28,7 @@ In this hypothetical scenario, the map would be used by individuals to plan trip
 
 ## Next Steps 
 
-The next step was to make the map more dynamic and interactive! You can find more information on that process, along with the final map, [here](https://nannunz.github.io/gis-portfolio/styling_wizard_dynamic_map.html)
+The next step was to make the map more dynamic and interactive! You can find more information on that process, along with the final map, [here!](https://nannunz.github.io/gis-portfolio/styling_wizard_dynamic_map.html)
 
 ## My Initial Failed Attempt 
 
