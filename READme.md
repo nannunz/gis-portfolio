@@ -6,8 +6,6 @@ Creating maps for 90753-A4: Advanced GIS <br/>
 
 <img align="left" src="https://github.com/nannunz/gis-portfolio/blob/main/group_photo_with_space.png?raw=true">&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
 ## About Me 
 
 Hello! My name is Nicole (she/her) and I'm a second-year master's candidate at Carnegie Mellon University's Heinz College. I'm originally from New York City and have an academic background in history and Africana Studies. I'm interested in social policy, particularly anti-poverty policies, and hope to use my skills in data visualization (and GIS in particular) as a tool for developing more equitable policies -- it's much easier to solve issues when we know (1) Who is being impacted; (2) Where they are; and (3) The root cause of the issue. <br/>
