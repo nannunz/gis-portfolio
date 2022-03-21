@@ -17,6 +17,9 @@ In order to input the colors into the Styling Wizard, the Hex Codes needed to be
 
 ## Creating the Map 
 
+[JSON Code](https://github.com/nannunz/gis-portfolio/blob/main/AudubonMap_code.json)
+
+<br/>
 
 <b>View from a National level: </b>
 <img src="https://github.com/nannunz/gis-portfolio/blob/main/Map%20overview.png?raw=true"><br/>
