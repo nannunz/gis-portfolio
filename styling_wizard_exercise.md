@@ -6,7 +6,7 @@ For this assignment, I chose to develop a map for the National Audubon Society (
 
 The organization does not have a consistent or clear visual style. While the images of regional birds are colorful and draw the eye, the maps included on their website, such as this [depiction of their national network](https://www.audubon.org/about/audubon-near-you), already look a bit out of place and have fairly chaotic coloring. This encouraged me to attempt to style a map based on one of the images they were already sharing on their website.  
 
-I took a screenshot of Audobon's [Guide to North American Birds](https://www.audubon.org/bird-guide), which features a Cedar Waxwing. The color on this bird seemed to be the most dynamic, and I thought it would give me a more flexible palette to play around with. 
+I took a screenshot of Audobon's [Guide to North American Birds](https://www.audubon.org/bird-guide), which features a Cedar Waxwing. The colors were the most vibrant and dynamic of all the bird photos, and I thought it would give me a more flexible palette to play around with. 
 
 Adobe generated the following palette from the image: 
 
