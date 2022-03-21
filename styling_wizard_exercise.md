@@ -17,9 +17,6 @@ In order to input the colors into the Styling Wizard, the Hex Codes needed to be
 
 ## Creating the Map 
 
-[JSON Code](https://github.com/nannunz/gis-portfolio/blob/main/AudubonMap_code.json)
-
-<br/>
 
 <b>View from a National level: </b>
 <img src="https://github.com/nannunz/gis-portfolio/blob/main/Map%20overview.png?raw=true"><br/>
@@ -28,6 +25,8 @@ In order to input the colors into the Styling Wizard, the Hex Codes needed to be
 <img src="https://github.com/nannunz/gis-portfolio/blob/main/Denver_closeup.png?raw=true"><br/>
 
 In this hypothetical scenario, the map would be used by individuals to plan trips to national or state parks for the purpose of birding. For the background, I utilized the light brown color (#8C7158) and adjusted the opacity to make it a more neutral, grounding color, allowing the golden color (#F2B705) representing parks and other natural land features to pop and draw the eye. The blue color (#276573) when made slightly more transparent made for a sensible choice for water features, providing sufficient contrast to the neutral landscape. The light brown, in a less transparent form, was used to represent major highways, with the bright red color (#BF2C2C) used to represent local roads -- local roads can only be seen when the user zooms into the map. The benefit of this palette is that each item is fairly distinct: it is easy to pick apart the roads and natural features from the default landscape. I do regret not using a palette that was more of a gradient -- the colors ended up being so distinct that even when adjusting the opacity, saturation, and brightness, they don't mesh together quite as well as I had hoped. While this was a boon for visibility, it was less useful in creating a map that felt cohesive. 
+
+[JSON Code](https://github.com/nannunz/gis-portfolio/blob/main/AudubonMap_code.json)
 
 ## Next Steps 
 
