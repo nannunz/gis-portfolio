@@ -5,3 +5,4 @@
 
 
 ## Wednesday Class
+<iframe src="https://insights.arcgis.com/#/embed/53dcf626b65e4fe0b0fc521f8cafa59d" width="100%" height="1530" frameborder="0"></iframe>
