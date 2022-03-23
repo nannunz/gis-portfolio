@@ -1,7 +1,7 @@
 ## In-class ArcGIS Insights Exercise
 
 ## Monday Class
-<iframe src="https://insights.arcgis.com/#/embed/8ad09a9be1724bdbbf5cdd99b2d60217" width=1750 height="1530" frameborder="100"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/8ad09a9be1724bdbbf5cdd99b2d60217" width="100%" height="1300" frameborder="0"></iframe>
 
 
 ## Wednesday Class
