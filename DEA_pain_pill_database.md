@@ -1,6 +1,6 @@
 ## Exploring the DEA's Pain Pill Database in ArcGIS Insights
 
-<img align="left" src="https://github.com/nannunz/gis-portfolio/blob/main/mingo%20county%20dashboard.png?raw=true">
+<img align="left" src="https://github.com/nannunz/gis-portfolio/blob/main/mingo%20county%20dashboard.png?raw=true">&nbsp;
 
 ArcGIS Insights was a little bit more challenging than I had anticipated! I believed it would be fairly easy to use after being drawn in by its ability to generate beautiful visualizations by simply dragging and dropping information into our dashboard -- dashboards had personally been one of the more frustrating and tedious components of the introductory course and I was excited to have this alternative. In this regard, Insights excels: the maps, along other charts and visualizations, are easy to generate, easy to customize, and easy to refine. The ease with which we could generate a linked diagram, for example, far outshines the process we would need to go through in ArcGIS Pro. The options for customization may not be as extensive as those in ArcGIS Pro, but that level of granularity is not often needed in one's day-to-day work. In some ways, Insights felt like a more streamlined version of Tableau, where the focus was predominantly on explanatory data analysis (one could use it for more exploratory purposes, but the functionality is not geared towards that approach).
 
