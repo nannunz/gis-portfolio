@@ -9,3 +9,5 @@ Where Insights falls short is around data analysis. It was tremendously difficul
 I would definitely use Insights again as a visualization tool -- it's fairly easy to use if I just need to quickly generate tables, charts, and maps for a presentation or another similar purpose. However, I think I will import information after I've had the opportunity to process and analyze it elsewhere first.
 
 My slides comparing ArcGIS Pro to ArcGIS Insights can be found [here](https://docs.google.com/presentation/d/1d_2MIL04HVgvpV8Hx8DUl2Y5YT-GBcqfmb80i8Ov0yc/edit#slide=id.p)!
+
+[Return to portfolio homepage](https://nannunz.github.io/gis-portfolio/)
