@@ -24,7 +24,16 @@ And, if I get to polish up my Python skills so they're actually usable in a prof
 
 ## My Work 
 
-[Assignment 1: Generating a map for a non-profit](https://nannunz.github.io/gis-portfolio/styling_wizard_exercise.html)
+[Building Predictive Models](https://nannunz.github.io/gis-portfolio/gis_predictive_models.html)
 
 
-[In-class demo: PGH SummerFest](https://nannunz.github.io/gis-portfolio/visitPGH_demo.html)
+[Exploring the DEA Pain Pill Database in ArcGIS Insights](https://nannunz.github.io/gis-portfolio/DEA_pain_pill_database.html)
+
+
+[In-class Lab: Experimenting with ArcGIS Insights](https://nannunz.github.io/gis-portfolio/gis_insights_lab.html)
+
+
+[Generating a map for a non-profit](https://nannunz.github.io/gis-portfolio/styling_wizard_exercise.html)
+
+
+[In-class Lab: PGH SummerFest](https://nannunz.github.io/gis-portfolio/visitPGH_demo.html)
