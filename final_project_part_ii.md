@@ -4,7 +4,7 @@ New York City is one of the most socioeconomically stratified and geographically
 
 By building this model, my hope was to better understand both the factors that fuel evictions and to provide targeted support to individuals in these vulnerable areas. This model can be thought of as a basic template that can be customized based on the availability of data and the unique factors of each city or town. As this was an exercise in experimentation, my regression equation was relatively simple: 
 
-Number of evictions_i= β_0 + β_1(Proportion of Black Residents)+ β_2(Median Income)+ β_3(Proportion of Evictions by ZIP Code)
+<img src="https://github.com/nannunz/gis-portfolio/blob/main/prediction_reg.png?raw=true">
 
 
 ## Data Sources 
