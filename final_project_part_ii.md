@@ -51,7 +51,7 @@ Rather than use a proximity based analysis, I ultimately decided to use the prop
 
 ## Step 4: Run the Model and Assess Preliminary Findings 
 
-As mentioned at the beginning of this report, the model does run, nut it does unfortunately contain a few errors. This is likely due to the relatively small sample size available: I ultimately only had around 300 rows of data to feed the model, which severely limits its training ability. Nevertheless, I ran the model using 10,000 trees to see if we could glean any preliminary findings from what was available. 
+As mentioned at the beginning of this report, the model does run, but it does unfortunately contain a few errors. This is likely due to the relatively small sample size available: I ultimately only had around 300 rows of data to feed the model, which severely limits its training ability. Nevertheless, I ran the model using 10,000 trees to see if we could glean any preliminary findings from what was available. 
 
 <img src="https://github.com/nannunz/gis-portfolio/blob/main/ModelOutput.png?raw=true">
 
