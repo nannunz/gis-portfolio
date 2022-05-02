@@ -57,6 +57,9 @@ The model identified areas in the South Bronx and Eastern Brooklyn, such as Bedf
 
 <img src="https://github.com/nannunz/gis-portfolio/blob/main/MedianIncome.png?raw=true">
 
+Areas of particular note include: Brownsville, East New York, Rugby-Remsen Village, Canarsie, Bedford-Stuyvesant, East Flatbush-Farragut, Bushwick, Mount Hope, Highbridge, East Tremont, and Concourse Village. I would therefore recommend that the Legal Aid Society, should they use this model to improve their outreach efforts, focus their energy on these areas. 
+
+
 
 
 [Return to portfolio homepage](https://nannunz.github.io/gis-portfolio/)
