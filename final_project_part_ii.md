@@ -22,6 +22,27 @@ First, I obtained shapefiles from NYC’s data repository outlining the five bor
 
 Next, I cleaned and imported New York City’s eviction data. This dataset provides the date and address of each eviction filing in New York for the past few years, which provided me the opportunity to geocode each location and get a better sense of the spread of evictions throughout the city. Unfortunately, it was impossible to glean any geospatial insights from this point layer because there had been so many evictions it was difficult to tell where, exactly, they were concentrated. Using this point layer, I summarized the number of evictions by ZIP code after joining it to the neighborhood shapefile. I similarly summarized the demographic and income data from the Census to prepare it for the model. 
 
+## Step 2: Try, and Fail, to Test a Basic Training Model. Realize, for the First Time, the Limitations of Your Data
+
+<img src="https://github.com/nannunz/gis-portfolio/blob/main/classification%20fail.png?raw=true">
+
+Falling victim to my own hubris, I assumed that the prepared data would simply allow me to “plug and play” when developing a Forest-Based Classification and Regression Model. This assumption would prove to be incorrect for two reasons: (1) All the information needed to be stored in the same feature class or table, as the model is incapable of pulling from multiple classes, and (2) If there are any null values in your data, regardless of whether or not you are using that variable in your model, the model will not run. 
+
+Unfortunately, ArcGIS does not necessarily provide a simple or straightforward way to clear all null values. A find and replace approach requires the user to sort through each individual column – which, unfortunately, would be quite difficult with the number of columns I had hoped to incorporate in the model. One could simply select and delete rows containing null values, but this would likely skew our results significantly and exclude numerous ZIP codes from our analysis. Ultimately, the most sensible approach was to export the data from ArcGIS to Excel (using the Feature Class to Excel tool) and quickly calculate the average value for each column containing null values and replace those values with the average. Though not an ideal approach, replacing null values with the average prevents the data from becoming too skewed, which is what would happen if we were to replace those nulls with zeroes instead. 
+
+After manually cleaning the data, it was imported back into ArcGIS and joined with the shapefile. It was then that I noticed something unusual: after multiple joins, there appeared to be duplicate rows despite ZIP codes matching perfectly in all tables pre-join. This turned out to be an unusual quirk of the way ZIP codes are laid out in New York City: some ZIP codes span multiple boroughs, and were thus spanning multiple rows where the demographic information matched, but the boroughs were logged differently. I used the summary statistics tool and remove identical features tool to ensure we were not double-counting certain areas. 
+
+## Step 3: Try, and Fail, to Create a Proximity-Based Analysis. Realize, for the Second Time, the Limitations of Your Data
+
+I had assumed that proximity to other evictions may be indicative of the likelihood of evictions occurring for a specific building or neighborhood. I attempted two analyses that would help quantify where evictions were most frequent: (1) A hot spot analysis and (2) Utilizing a radial basis function to weigh high-eviction areas more heavily. A radial basis function essentially creates a flat “sheet” to represent your geographic area, with each point on the sheet corresponding to a point on the map. For every input at a particular point – say, a documented eviction – the function raises the “sheet” in that particular point, ultimately creating a landscape where locations with a higher input count are “taller.” 
+
+Unfortunately, as the datasets I was working with were relatively small, ArcGIS was unable to perform either analysis. In fact, I was so unsuccessful, that attempting to use the radial basis function prompted an error message to contact Esri support for additional assistance. 
+
+<img src="https://github.com/nannunz/gis-portfolio/blob/main/radial%20basis%20fail.png?raw=true">
+
+Rather than use a proximity based analysis, I ultimately decided to use the proportion of evictions to residents by ZIP code as my location-based variable in my model. 
+
+
 
 
 [Return to portfolio homepage](https://nannunz.github.io/gis-portfolio/)
