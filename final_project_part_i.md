@@ -1,3 +1,5 @@
+## Building an Eviction Model for Atlanta
+
 ## Overview of the Issue and Product
 For this project, I would like to develop a housing vulnerability prediction model for the Metro Atlanta area, which includes Fulton, DeKalb, Gwinnett, Clayton, and Cobb counties. Through my capstone project, which takes a quantitative and qualitative approach to measuring the impact of COVID-19 on Atlanta and its recovery, access to affordable housing has come up time and time again as one of the city’s most pressing issues. While the eviction moratoriums may have provided temporary relief, both the city and the metro area at large have experienced rapid gentrification fueled by an influx of residents from other cities looking to buy cheaper homes and, more significantly, the expansion of major universities in the city: Georgia Institute of Technology, Georgia State University, Clark Atlanta University, Spelman College, and Moorehouse College.  
 
