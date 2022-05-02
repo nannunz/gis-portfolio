@@ -42,6 +42,20 @@ Unfortunately, as the datasets I was working with were relatively small, ArcGIS 
 
 Rather than use a proximity based analysis, I ultimately decided to use the proportion of evictions to residents by ZIP code as my location-based variable in my model. 
 
+<img src="https://github.com/nannunz/gis-portfolio/blob/main/Evictions%20by%20ZIP%20Code.png?raw=true">
+
+
+## Step 4: Run the Model and Assess Preliminary Findings 
+
+As mentioned at the beginning of this report, the model does run, nut it does unfortunately contain a few errors. This is likely due to the relatively small sample size available: I ultimately only had around 300 rows of data to feed the model, which severely limits its training ability. Nevertheless, I ran the model using 10,000 trees to see if we could glean any preliminary findings from what was available. 
+
+<img src="https://github.com/nannunz/gis-portfolio/blob/main/ModelOutput.png?raw=true">
+
+The model identified areas in the South Bronx and Eastern Brooklyn, such as Bedford-Stuyvesant, as being particularly high-risk areas for eviction. This finding is not terribly surprising based on the variables we have fed the model: while evictions are extremely common across the city (with the exception of Staten Island), these areas tend to have residents with the lowest incomes and large Black populations relative to other neighborhoods. 
+
+<img src="https://github.com/nannunz/gis-portfolio/blob/main/BlackPop.png?raw=true">
+
+<img src="https://github.com/nannunz/gis-portfolio/blob/main/MedianIncome.png?raw=true">
 
 
 
