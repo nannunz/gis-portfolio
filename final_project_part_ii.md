@@ -79,6 +79,7 @@ What New York has is an exceptional resource – but it shouldn’t be. ArcGIS a
 
 <iframe title="Final Process Log" aria-label="Table" id="datawrapper-chart-aI9T4" src="https://datawrapper.dwcdn.net/aI9T4/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="1397"></iframe>
 
+The model, alongside the cleaned data, [can be found in the Final Project .zip file](https://drive.google.com/drive/u/1/folders/1TyR_ZR03q7cndaKbyEUCttMuOQphSgfD). 
 
 
 [Return to portfolio homepage](https://nannunz.github.io/gis-portfolio/)
