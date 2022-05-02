@@ -24,6 +24,12 @@ And, if I get to polish up my Python skills so they're actually usable in a prof
 
 ## My Work 
 
+[Final Project Part 1: Building a Housing Vulnerability Preduction Model for New York](https://nannunz.github.io/gis-portfolio/final_project_part_ii.html)
+
+
+[Final Project Part 1: Building a Housing Vulnerability Model for Atlanta (Scrapped)](https://nannunz.github.io/gis-portfolio/final_project_part_i.html)
+
+
 [Building Predictive Models](https://nannunz.github.io/gis-portfolio/gis_predictive_models.html)
 
 
