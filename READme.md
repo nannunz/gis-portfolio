@@ -43,3 +43,10 @@ And, if I get to polish up my Python skills so they're actually usable in a prof
 
 
 [In-class Lab: PGH SummerFest](https://nannunz.github.io/gis-portfolio/visitPGH_demo.html)
+
+
+## Other Data Visualization Work 
+
+[Telling Stories with Data Portfolio](https://nannunz.github.io/TSWD-portfolio/)
+
+
